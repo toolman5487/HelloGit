@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     var a = 1
     var b = 2
-    
+    var c = "Remote R Test "
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -21,7 +21,7 @@ class ViewController: UIViewController {
         print("Hello Git!")
         print("Hello Git!")
         print("Hello V2")
-        print("Test 3")
+        print(c)
         
     }
 
